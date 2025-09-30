@@ -1,7 +1,7 @@
 <h3 align="center">👋 Olá! Bem-vindo ao Repositório da disciplina CCP120</h3>
 
 <h4 align="center">
-📚 programação fullstack | fei - ciência da computação | 💬 contato: <a href="https://www.linkedin.com/in/gustavobarsil/">@gustavobarsil</a>
+📚 programação fullstack | fei - ciência da computação | 💬 contato: <a href="https://www.linkedin.com/in/marcos-vinicius-caetano-silva-01b31b260/"></a>
 </h4>
 
 <p align="justify">
